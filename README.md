@@ -1,6 +1,8 @@
 # CardioFitness
 Interactive data visualization with plotly and dash
 
+## Data:
+In this data we have three treadmills, we want to investagate customers and treadmills relationship. 
 
 ## Part of Dash:
 
